@@ -1,3 +1,29 @@
+## ros2_intel_realsense (bouncy) - 2.0.1-9
+
+The packages in the `ros2_intel_realsense` repository were released into the `bouncy` distro by running `/usr/bin/bloom-release --rosdistro bouncy --track bouncy ros2_intel_realsense` on `Wed, 13 Jun 2018 14:47:27 -0000`
+
+These packages were released:
+- `cv_bridge`
+- `realsense_camera_msgs`
+- `realsense_ros2_camera`
+
+Version of package(s) in repository `ros2_intel_realsense`:
+
+- upstream repository: https://github.com/sharronliu/ros2_intel_realsense.git
+- release repository: https://github.com/sharronliu/ros2_intel_realsense-release.git
+- rosdistro version: `2.0.1`
+- old version: `2.0.1-8`
+- new version: `2.0.1-9`
+
+Versions of tools used:
+
+- bloom version: `0.6.4`
+- catkin_pkg version: `0.4.3`
+- rosdep version: `0.12.2`
+- rosdistro version: `0.6.2`
+- vcstools version: `0.1.39`
+
+
 ## ros2_intel_realsense (bouncy) - 2.0.1-8
 
 The packages in the `ros2_intel_realsense` repository were released into the `bouncy` distro by running `/usr/bin/bloom-release --rosdistro bouncy --track bouncy ros2_intel_realsense` on `Wed, 13 Jun 2018 13:37:42 -0000`
