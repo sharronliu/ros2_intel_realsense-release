@@ -40,7 +40,7 @@ tracks:
     last_version: 2.0.1
     name: ros2_intel_realsense
     patches: null
-    release_inc: '11'
+    release_inc: '12'
     release_repo_url: null
     release_tag: :{version}
     ros_distro: bouncy
